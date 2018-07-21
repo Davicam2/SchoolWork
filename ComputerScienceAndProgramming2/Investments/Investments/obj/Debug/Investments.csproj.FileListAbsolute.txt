@@ -1,0 +1,13 @@
+C:\Users\Cameron\Desktop\CS 1182 Projects\Investments\Investments\bin\Debug\Investments.exe.config
+C:\Users\Cameron\Desktop\CS 1182 Projects\Investments\Investments\bin\Debug\Investments.exe
+C:\Users\Cameron\Desktop\CS 1182 Projects\Investments\Investments\bin\Debug\Investments.pdb
+C:\Users\Cameron\Desktop\CS 1182 Projects\Investments\Investments\obj\Debug\Investments.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\Desktop\CS 1182 Projects\Investments\Investments\obj\Debug\Investments.exe
+C:\Users\Cameron\Desktop\CS 1182 Projects\Investments\Investments\obj\Debug\Investments.pdb
+C:\Users\Big D\Dropbox\MISC\CS 1182 Projects\Investments Submission 1\Investments\bin\Debug\Investments.exe.config
+C:\Users\Big D\Dropbox\MISC\CS 1182 Projects\Investments Submission 1\Investments\bin\Debug\Investments.exe
+C:\Users\Big D\Dropbox\MISC\CS 1182 Projects\Investments Submission 1\Investments\bin\Debug\Investments.pdb
+C:\Users\Big D\Dropbox\MISC\CS 1182 Projects\Investments Submission 1\Investments\obj\Debug\Investments.csprojResolveAssemblyReference.cache
+C:\Users\Big D\Dropbox\MISC\CS 1182 Projects\Investments Submission 1\Investments\obj\Debug\Investments.csproj.CoreCompileInputs.cache
+C:\Users\Big D\Dropbox\MISC\CS 1182 Projects\Investments Submission 1\Investments\obj\Debug\Investments.exe
+C:\Users\Big D\Dropbox\MISC\CS 1182 Projects\Investments Submission 1\Investments\obj\Debug\Investments.pdb
