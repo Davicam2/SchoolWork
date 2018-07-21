@@ -1,0 +1,7 @@
+﻿  huffman.cpp
+c:\users\cameron\dropbox\spring 2017\cs3385\visual studio projects\assignment files\p431-dist\bit_buffer.h(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\dropbox\spring 2017\cs3385\visual studio projects\assignment files\p431-dist\huffman.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\dropbox\spring 2017\cs3385\visual studio projects\assignment files\p431-dist\huffman.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\cameron\dropbox\spring 2017\cs3385\visual studio projects\assignment files\p431-dist\huffman.cpp(101): warning C4018: '<': signed/unsigned mismatch
+  Project431.vcxproj -> C:\Users\cameron\Dropbox\Spring 2017\CS3385\Visual Studio Projects\Turn in Files\Project431\Debug\Project431.exe
+  Project431.vcxproj -> C:\Users\cameron\Dropbox\Spring 2017\CS3385\Visual Studio Projects\Turn in Files\Project431\Debug\Project431.pdb (Full PDB)
