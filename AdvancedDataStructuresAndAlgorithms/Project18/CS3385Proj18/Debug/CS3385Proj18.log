@@ -1,0 +1,5 @@
+﻿  InsertionSort.cpp
+c:\users\cameron davis\dropbox\spring 2017\cs3385\visual studio projects\assignment files\p18\insertionsort.cpp(4): warning C4101: 'j': unreferenced local variable
+c:\users\cameron davis\dropbox\spring 2017\cs3385\visual studio projects\assignment files\p18\insertionsort.cpp(4): warning C4101: 'i': unreferenced local variable
+  CS3385Proj18.vcxproj -> C:\Users\Cameron Davis\Dropbox\Spring 2017\CS3385\Visual Studio Projects\Turn in Files\CS3385Proj18\Debug\CS3385Proj18.exe
+  CS3385Proj18.vcxproj -> C:\Users\Cameron Davis\Dropbox\Spring 2017\CS3385\Visual Studio Projects\Turn in Files\CS3385Proj18\Debug\CS3385Proj18.pdb (Full PDB)
