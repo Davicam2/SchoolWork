@@ -3,3 +3,9 @@ C:\Users\cameron\Desktop\CS 1182 Projects\RefrenceStyle\ReferenceAccess\bin\Debu
 C:\Users\cameron\Desktop\CS 1182 Projects\RefrenceStyle\ReferenceAccess\obj\Debug\ReferenceAccess.dll
 C:\Users\cameron\Desktop\CS 1182 Projects\RefrenceStyle\ReferenceAccess\obj\Debug\ReferenceAccess.pdb
 C:\Users\cameron\Desktop\CS 1182 Projects\RefrenceStyle\ReferenceAccess\obj\Debug\ReferenceAccess.csprojResolveAssemblyReference.cache
+C:\Users\Big D\Dropbox\Spring 2017\CS3385\Visual Studio Projects\Turn in Files\ComputerScienceAndProgramming2\ReferenceStyle\ReferenceAccess\bin\Debug\ReferenceAccess.dll
+C:\Users\Big D\Dropbox\Spring 2017\CS3385\Visual Studio Projects\Turn in Files\ComputerScienceAndProgramming2\ReferenceStyle\ReferenceAccess\bin\Debug\ReferenceAccess.pdb
+C:\Users\Big D\Dropbox\Spring 2017\CS3385\Visual Studio Projects\Turn in Files\ComputerScienceAndProgramming2\ReferenceStyle\ReferenceAccess\obj\Debug\ReferenceAccess.csprojResolveAssemblyReference.cache
+C:\Users\Big D\Dropbox\Spring 2017\CS3385\Visual Studio Projects\Turn in Files\ComputerScienceAndProgramming2\ReferenceStyle\ReferenceAccess\obj\Debug\ReferenceAccess.csproj.CoreCompileInputs.cache
+C:\Users\Big D\Dropbox\Spring 2017\CS3385\Visual Studio Projects\Turn in Files\ComputerScienceAndProgramming2\ReferenceStyle\ReferenceAccess\obj\Debug\ReferenceAccess.dll
+C:\Users\Big D\Dropbox\Spring 2017\CS3385\Visual Studio Projects\Turn in Files\ComputerScienceAndProgramming2\ReferenceStyle\ReferenceAccess\obj\Debug\ReferenceAccess.pdb
