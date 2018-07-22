@@ -1,4 +1,0 @@
-﻿  MaxSubarray.cpp
-c:\users\cameron davis\dropbox\spring 2017\cs3385\visual studio projects\assignment files\p72\p72\maxsubarray.cpp(41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  project72.vcxproj -> C:\Users\Cameron Davis\Dropbox\Spring 2017\CS3385\Visual Studio Projects\Turn in Files\project72\Debug\project72.exe
-  project72.vcxproj -> C:\Users\Cameron Davis\Dropbox\Spring 2017\CS3385\Visual Studio Projects\Turn in Files\project72\Debug\project72.pdb (Full PDB)

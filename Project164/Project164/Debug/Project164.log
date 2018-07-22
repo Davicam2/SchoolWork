@@ -1,5 +1,0 @@
-﻿  Heap.cpp
-c:\users\cameron davis\dropbox\spring 2017\cs3385\visual studio projects\assignment files\p164\heap.cpp(73): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\cameron davis\dropbox\spring 2017\cs3385\visual studio projects\assignment files\p164\heap.cpp(110): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-  Project164.vcxproj -> C:\Users\Cameron Davis\Dropbox\Spring 2017\CS3385\Visual Studio Projects\Turn in Files\Project164\Debug\Project164.exe
-  Project164.vcxproj -> C:\Users\Cameron Davis\Dropbox\Spring 2017\CS3385\Visual Studio Projects\Turn in Files\Project164\Debug\Project164.pdb (Full PDB)
