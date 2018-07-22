@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\big d\dropbox\spring 2017\cs3385\visual studio projects\turn in files\advanceddatastructuresandalgorithms\project257\scripts\hash.h(26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\big d\dropbox\spring 2017\cs3385\visual studio projects\turn in files\advanceddatastructuresandalgorithms\project257\scripts\hashtable.h(94): warning C4101: 'e': unreferenced local variable
+  c:\users\big d\dropbox\spring 2017\cs3385\visual studio projects\turn in files\advanceddatastructuresandalgorithms\project257\scripts\hashtable.h(86): note: while compiling class template member function 'bool HashTable<std::string,DivHash>::contains(const int)'
+  c:\users\big d\dropbox\spring 2017\cs3385\visual studio projects\turn in files\advanceddatastructuresandalgorithms\project257\scripts\main.cpp(88): note: see reference to function template instantiation 'bool HashTable<std::string,DivHash>::contains(const int)' being compiled
+  c:\users\big d\dropbox\spring 2017\cs3385\visual studio projects\turn in files\advanceddatastructuresandalgorithms\project257\scripts\main.cpp(62): note: see reference to class template instantiation 'HashTable<std::string,DivHash>' being compiled
+c:\users\big d\dropbox\spring 2017\cs3385\visual studio projects\turn in files\advanceddatastructuresandalgorithms\project257\scripts\hashtable.h(96): warning C4715: 'HashTable<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,DivHash>::contains': not all control paths return a value
+  Project257.vcxproj -> C:\Users\Big D\Dropbox\Spring 2017\CS3385\Visual Studio Projects\Turn in Files\AdvancedDataStructuresAndAlgorithms\Project257\Debug\Project257.exe
