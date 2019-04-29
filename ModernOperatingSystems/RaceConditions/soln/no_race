@@ -1,0 +1,24 @@
+#! /bin/bash
+
+#-------------------------------------------------------------------------------
+# TODO: modify this file such that a race condition will not occur, as
+# described in problem #57.
+#
+# In order to run this script, you may need to execute the following command:
+#   > chmod 755 start
+#
+# Copy your "race" script into this file to get started.
+#-------------------------------------------------------------------------------
+
+#-------------------------------------------------------------------------------
+# SOLUTION
+#-------------------------------------------------------------------------------
+for i in `seq 1 100`; do
+    ln file file.lock 2> /dev/null
+    while [ $? -ne 0 ]; do
+        ln file file.lock 2> /dev/null
+    done
+    a=`tail -n 1 file`
+    echo $((a+1)) >> file
+    rm file.lock
+done    

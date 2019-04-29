@@ -1,0 +1,42 @@
+#! /bin/bash
+
+#-------------------------------------------------------------------------------
+# To get you started, this file describes various commands that you will
+# use in your "race" script.
+#-------------------------------------------------------------------------------
+
+# Print "1" and redirects it to the file named "file".
+echo 1 > file
+
+# Print "2" and redirects it to the file named "file". The difference
+# here is that "2" is APPENDED to the file, instead of overwriting the file.
+echo 2 >> file
+
+# Print "3" and "4" and redirect them to the file named "file".
+echo 3 >> file
+echo 4 >> file
+
+# Print the contents of the file named "file".
+cat file
+
+# Print the last three lines of "file".
+tail -n 3 file
+
+# Print the last three lines of "file" and set the variable "a" equal
+# to them.
+a=`tail -n 3 file`
+
+# Print the value of the variable "a".
+echo $a
+
+# Set "b" equal to the string 14
+b=`echo 14`
+
+# Add 3 to "b" and print it.
+echo $((b+3))
+
+# Iterate from 1 to 10
+for i in `seq 1 10`; do
+    echo $i
+done    
+

@@ -1,0 +1,18 @@
+#! /bin/bash
+
+#-------------------------------------------------------------------------------
+# TODO: modify this file such that a race condition manifests itself, as
+# described in problem #57.
+#
+# In order to run this script, you may need to execute the following command:
+#   > chmod 755 start
+#-------------------------------------------------------------------------------
+
+#-------------------------------------------------------------------------------
+# SOLUTION
+#-------------------------------------------------------------------------------
+for i in `seq 1 100`; do
+    a=`tail -n 1 file`
+    echo $((a+1)) >> file
+done    
+

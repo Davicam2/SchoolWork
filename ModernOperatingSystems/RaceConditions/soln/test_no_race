@@ -1,0 +1,25 @@
+#! /bin/bash
+
+#-------------------------------------------------------------------------------
+# DO NOT modify this file.
+#
+# This is a script that will run one script in the background and one in the
+# foreground. It will also test to see if there was a race condition.
+#
+# In order to run this script, you may need to execute the following command:
+#   > chmod 755 start
+#-------------------------------------------------------------------------------
+
+# Create a new file with text equal to the number 1
+echo 1 > file
+
+# Run the race script in the background
+./no_race&
+
+# Run the race script in the foreground
+./no_race
+
+# Output the contents of the file, sort the contents, then print
+# any line that isn't unique. If there is a race condition, then
+# a number will be duplicated.
+cat file | sort -n | uniq -d
